@@ -1,0 +1,24 @@
+From 4fec62f237b1f89b4ac4ea22314b7c3a14ebae6a Mon Sep 17 00:00:00 2001
+From: vlad-gal <vlgalathevich@gmail.com>
+Date: Fri, 1 Jan 2021 14:50:20 +0300
+Subject: [PATCH] update 2 lines in first file step 7
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index e53eaa1..952e10b 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@
+ 6
+ 7
+ 8
+-9
+-0
++9 upd line step 7
++0 upd line step 7
+-- 
+2.29.2.windows.3
+
