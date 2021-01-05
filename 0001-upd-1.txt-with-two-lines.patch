@@ -1,0 +1,24 @@
+From e59d7019c3d806a9a1eb44f302357b920051976b Mon Sep 17 00:00:00 2001
+From: vlad-gal <vlgalathevich@gmail.com>
+Date: Tue, 5 Jan 2021 18:24:39 +0300
+Subject: [PATCH] upd 1.txt with two lines
+
+---
+ 1.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/1.txt b/1.txt
+index e53eaa1..f98275f 100644
+--- a/1.txt
++++ b/1.txt
+@@ -6,5 +6,5 @@
+ 6
+ 7
+ 8
+-9
+-0
++9 upd line
++0 upd line
+-- 
+2.29.2.windows.3
+
